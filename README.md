@@ -5,7 +5,6 @@
 - 💬 Ask me about the racing drone I built
 - 📫 How to reach me: email me @ nolandeutsch@gmail.com
 - ⚡ Fun fact: I broke my back when I was 11 by sleepwalking off a 2 story balcony
--->
 
 ### Connect with me:
 
