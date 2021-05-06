@@ -1,7 +1,7 @@
 ### Hi there, I'm Nolan 👋
 
 - 🔭 I’m currently working on getting my first job in software development 
-- 🌱 I’m currently learning React and React Native
+- 🌱 My Languages of Choice are React for web and React Native for mobile development
 - 💬 Ask me about the racing drone I built
 - 📫 How to reach me: email me @ nolandeutsch@gmail.com
 - ⚡ Fun fact: I broke my back when I was 11 by sleepwalking off a 2 story balcony
