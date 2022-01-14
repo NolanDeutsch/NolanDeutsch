@@ -1,6 +1,6 @@
 ### Hi there, I'm Nolan 👋
 
-- 🔭 I’m currently working on getting my first job in software development 
+- 🔭 I’m currently living in Thailand freelancing in software development
 - 🌱 My Languages of Choice are React for web and React Native for mobile development
 - 💬 Ask me about the racing drone I built
 - 📫 How to reach me: email me @ nolandeutsch@gmail.com
